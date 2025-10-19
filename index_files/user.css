@@ -164,11 +164,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=
 	text-align:justify;	
 }
 
-
-
-
-
-
-
-
+p, li {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
