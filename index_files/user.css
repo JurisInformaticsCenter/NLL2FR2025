@@ -65,7 +65,7 @@ a:hover{
 }
 .content h1{
 	font-size:2em;
-	
+	text-align:justify;	
 }
 
 .navi{ padding:16px;}
@@ -164,6 +164,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=
 .pageTop{
 	text-align:justify;	
 }
+
 
 
 
