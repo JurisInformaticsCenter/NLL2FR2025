@@ -64,7 +64,7 @@ a:hover{
 	_margin-left:0px;
 }
 .content h1{
-	font-size:2.5em;
+	font-size:1.5em;
 	
 }
 
@@ -162,6 +162,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=
 	
 }
 .pageTop{
-	text-align:right;	
+	text-align:justify;	
 }
+
 
