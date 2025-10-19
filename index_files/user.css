@@ -162,17 +162,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=
 	
 }
 .pageTop{
-	text-align:right;	
+	text-align:justify;	
 }
 
-/* Justify titles and body text */
-h1, h2, h3 {
-  text-align: justify;
-  text-justify: inter-word;
-}
-
-p, li {
-  text-align: justify;
-  text-justify: inter-word;
-}
 
